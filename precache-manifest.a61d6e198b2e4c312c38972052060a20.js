@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc4d6b1f78ce66b94523480f5e4f616a",
+    "revision": "5a9926d416766b5f28c3256b5a94c918",
     "url": "/speed-typing-game/index.html"
   },
   {
-    "revision": "c5d743ff271c05a35b30",
+    "revision": "cb611e3c6847d3cb19e0",
     "url": "/speed-typing-game/static/css/main.4ab5477d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/speed-typing-game/static/js/2.e71f9331.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c5d743ff271c05a35b30",
-    "url": "/speed-typing-game/static/js/main.6b36b4ec.chunk.js"
+    "revision": "cb611e3c6847d3cb19e0",
+    "url": "/speed-typing-game/static/js/main.d2803333.chunk.js"
   },
   {
     "revision": "93c861f9f855248d6a45",
