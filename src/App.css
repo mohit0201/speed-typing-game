@@ -16,7 +16,7 @@ body {
 button {
   font-family: 'Press Start 2P', cursive;
   display: block;
-  margin: 0 auto;
+  margin: 1em auto;
   border: none;
   background: #a80020;
   background: #00b800;
@@ -39,7 +39,7 @@ textarea {
   width: 90%;
   margin: 0 auto;
   outline: none;
-  height: 400px;
+  height: 300px;
   background: #00b800;
   padding: 1em;
 }
